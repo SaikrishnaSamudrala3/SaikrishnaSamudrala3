@@ -1,57 +1,93 @@
-# Sai Krishna Samudrala
+<div align="center">
 
-Software developer focused on full-stack web development, AI-powered applications, and practical product building.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sai+Krishna+Samudrala;Full-Stack+Developer;Building+AI-Powered+Web+Applications;M.S.+Information+Technology+%40+ASU)](https://git.io/typing-svg)
 
-I am currently pursuing a Master of Science in Information Technology at Arizona State University and enjoy building projects that combine clean user experiences, solid backend systems, and real-world utility.
+</div>
+
+<div align="center">
+  <a href="https://github.com/SaikrishnaSamudrala3">
+    <img src="https://img.shields.io/badge/GitHub-SaikrishnaSamudrala3-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+  </a>
+  <a href="https://my-portfolio-mu-five-58.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SaikrishnaSamudrala3&style=for-the-badge&color=2563eb" alt="Profile views" />
+</div>
+
+<br>
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVqMXY1Ymhwb2dkNmlobmptbzIxcm9wN3B1bXQxeDJwY3VwY3hkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## About Me
 
-- Building full-stack applications with modern web technologies
-- Exploring agentic AI, chatbots, and automation workflows
-- Interested in backend systems, APIs, and cloud-ready products
-- Looking for opportunities where I can contribute, learn fast, and ship meaningful software
+I am a software developer focused on full-stack web development, AI-powered applications, and practical product building.
+
+Currently pursuing a Master of Science in Information Technology at Arizona State University, I enjoy building software that combines clean interfaces, strong backend foundations, and real-world usefulness.
+
+- Building modern web applications with React, Next.js, Node.js, and TypeScript
+- Exploring agentic AI workflows, chatbots, and intelligent automation
+- Interested in backend systems, APIs, and cloud-ready deployment
+- Looking for opportunities where I can keep learning and ship meaningful software
+
+<br clear="right" />
 
 ## Tech Stack
 
-**Languages:** JavaScript, TypeScript, Python, HTML, CSS
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frontend:** React, Next.js, Redux, Bootstrap
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend:** Node.js, Express, REST APIs
+### Backend and Data
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Databases:** MongoDB, PostgreSQL
-
-**Tools:** Git, GitHub, Vercel, AWS
+### Tools and Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 ## Featured Projects
 
 ### [Anxiety and Depression Prediction Chatbot](https://github.com/SaikrishnaSamudrala3/Anxiety-and-depression-prediction-chatbot)
-TypeScript-based AI application that combines conversational interaction with a prediction-focused mental health use case.
+AI-based web application built with TypeScript that combines conversational interaction with a prediction-oriented mental health use case.
 
 Live demo: https://anxiety-and-depression-prediction-c.vercel.app
 
 ### [DevConnector](https://github.com/SaikrishnaSamudrala3/DevConnector)
-MERN stack social platform for developers with authentication, profile creation, posts, and Redux-powered state management.
+MERN stack social platform for developers featuring authentication, developer profiles, posting, and Redux-powered state management.
 
 Live demo: https://dev-connector-flax.vercel.app
 
 ### [StudyBud](https://github.com/SaikrishnaSamudrala3/StudyBud)
-Study-focused platform built to help users connect with people who share similar learning interests and save preferred study partners.
+Study-focused platform designed to help users discover people with similar academic interests and save preferred study partners.
 
 ### [Agentic AI Blog Generation](https://github.com/SaikrishnaSamudrala3/Agentic-AI---Blog-Generation)
-Python project exploring AI-driven blog generation workflows with a focus on automation, prompting, and practical content generation.
+Python project exploring AI-driven blog generation workflows with a focus on automation, prompting, and practical content creation.
 
 ## Current Focus
 
-- Building stronger full-stack applications with production-style structure
-- Expanding my work in AI-powered developer and user-facing tools
-- Improving system design, backend problem solving, and deployment skills
+- Building stronger production-style full-stack applications
+- Improving backend architecture and API design skills
+- Creating AI-powered tools with real user-facing value
 
 ## Connect
 
 - Portfolio: https://my-portfolio-mu-five-58.vercel.app/
 - GitHub: https://github.com/SaikrishnaSamudrala3
 
----
-
-I like building software that is useful, thoughtful, and continuously improving through iteration.
+<div align="center">
+  <sub>Building useful software, learning in public, and improving with every project.</sub>
+</div>
