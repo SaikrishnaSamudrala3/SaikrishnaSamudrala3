@@ -6,15 +6,15 @@
 
 <div align="center">
   <a href="https://github.com/SaikrishnaSamudrala3">
-    <img src="https://img.shields.io/badge/GitHub-SaikrishnaSamudrala3-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+    <img src="https://img.shields.io/badge/GitHub-SaikrishnaSamudrala3-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
   <a href="https://saikrishnasamudrala.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio badge" />
   </a>
   <a href="https://leetcode.com/u/saikrishnasamudrala00/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge" />
+    <img src="https://img.shields.io/badge/LeetCode-saikrishnasamudrala00-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SaikrishnaSamudrala3&style=for-the-badge&color=2563eb" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SaikrishnaSamudrala3&style=flat-square&color=2563eb" alt="Profile views" />
 </div>
 
 <br>
