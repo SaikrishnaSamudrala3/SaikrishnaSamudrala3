@@ -92,7 +92,6 @@ Currently pursuing a Master of Science in Information Technology at Arizona Stat
 ### Certification
 [![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](./assets/certificates/aws-certified-solutions-architect-associate.pdf)
 
-Validation Number: `c712dee1063a48efba2fc763ee33eab1`
 
 ## Featured Projects
 
