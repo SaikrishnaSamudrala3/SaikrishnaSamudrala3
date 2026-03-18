@@ -133,14 +133,14 @@ Python project exploring AI-driven blog generation workflows with a focus on aut
 </div>
 
 <div align="center">
-  <a href="https://saikrishnasamudrala.lovable.app/">
-    <img src="https://img.shields.io/badge/Portfolio-saikrishnasamudrala.lovable.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio link" />
+  <a href="https://www.linkedin.com/in/samudrala-sai-krishna/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sai%20Krishna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn link" />
   </a>
-  <a href="https://leetcode.com/u/saikrishnasamudrala00/">
-    <img src="https://img.shields.io/badge/LeetCode-saikrishnasamudrala00-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode link" />
+  <a href="mailto:saikrishnasamudrala00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-saikrishnasamudrala00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail link" />
   </a>
-  <a href="https://github.com/SaikrishnaSamudrala3">
-    <img src="https://img.shields.io/badge/GitHub-SaikrishnaSamudrala3-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub link" />
+  <a href="https://www.instagram.com/saikrishna_samudrala/">
+    <img src="https://img.shields.io/badge/Instagram-saikrishna__samudrala-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram link" />
   </a>
 </div>
 
