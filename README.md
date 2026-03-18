@@ -102,9 +102,23 @@ Python project exploring AI-driven blog generation workflows with a focus on aut
 
 ## Connect
 
-- Portfolio: https://saikrishnasamudrala.lovable.app/
-- LeetCode: https://leetcode.com/u/saikrishnasamudrala00/
-- GitHub: https://github.com/SaikrishnaSamudrala3
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=420&lines=Let's+Connect;Open+to+collaborations;Always+building+something+new)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <a href="https://saikrishnasamudrala.lovable.app/">
+    <img src="https://img.shields.io/badge/Portfolio-saikrishnasamudrala.lovable.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio link" />
+  </a>
+  <a href="https://leetcode.com/u/saikrishnasamudrala00/">
+    <img src="https://img.shields.io/badge/LeetCode-saikrishnasamudrala00-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode link" />
+  </a>
+  <a href="https://github.com/SaikrishnaSamudrala3">
+    <img src="https://img.shields.io/badge/GitHub-SaikrishnaSamudrala3-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub link" />
+  </a>
+</div>
 
 <div align="center">
   <sub>Building useful software, learning in public, and improving with every project.</sub>
