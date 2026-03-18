@@ -79,7 +79,6 @@ Live demo: https://anxiety-and-depression-prediction-c.vercel.app
 ### [DevConnector](https://github.com/SaikrishnaSamudrala3/DevConnector)
 MERN stack social platform for developers featuring authentication, developer profiles, posting, and Redux-powered state management.
 
-Live demo: https://dev-connector-flax.vercel.app
 
 ### [StudyBud](https://github.com/SaikrishnaSamudrala3/StudyBud)
 Study-focused platform designed to help users discover people with similar academic interests and save preferred study partners.
