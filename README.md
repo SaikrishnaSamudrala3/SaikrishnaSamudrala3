@@ -127,12 +127,6 @@ Python project exploring AI-driven blog generation workflows with a focus on aut
 ## Connect
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=420&lines=Let's+Connect;Open+to+collaborations;Always+building+something+new)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/samudrala-sai-krishna/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn icon" />
   </a>
@@ -142,8 +136,4 @@ Python project exploring AI-driven blog generation workflows with a focus on aut
   <a href="https://www.instagram.com/saikrishna_samudrala/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram icon" />
   </a>
-</div>
-
-<div align="center">
-  <sub>Building useful software, learning in public, and improving with every project.</sub>
 </div>
