@@ -8,17 +8,22 @@
   <a href="https://github.com/SaikrishnaSamudrala3">
     <img src="https://img.shields.io/badge/GitHub-SaikrishnaSamudrala3-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
-  <a href="https://my-portfolio-mu-five-58.vercel.app/">
+  <a href="https://saikrishnasamudrala.lovable.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge" />
+  </a>
+  <a href="https://leetcode.com/u/saikrishnasamudrala00/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=SaikrishnaSamudrala3&style=for-the-badge&color=2563eb" alt="Profile views" />
 </div>
 
 <br>
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVqMXY1Ymhwb2dkNmlobmptbzIxcm9wN3B1bXQxeDJwY3VwY3hkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ## About Me
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
 I am a software developer focused on full-stack web development, AI-powered applications, and practical product building.
 
@@ -29,7 +34,12 @@ Currently pursuing a Master of Science in Information Technology at Arizona Stat
 - Interested in backend systems, APIs, and cloud-ready deployment
 - Looking for opportunities where I can keep learning and ship meaningful software
 
-<br clear="right" />
+  </td>
+    <td align="center" width="40%">
+      <img alt="Coding illustration" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVqMXY1Ymhwb2dkNmlobmptbzIxcm9wN3B1bXQxeDJwY3VwY3hkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
@@ -83,9 +93,18 @@ Python project exploring AI-driven blog generation workflows with a focus on aut
 - Improving backend architecture and API design skills
 - Creating AI-powered tools with real user-facing value
 
+## LeetCode
+
+<div align="center">
+  <a href="https://leetcode.com/u/saikrishnasamudrala00/">
+    <img src="https://leetcard.jacoblin.cool/saikrishnasamudrala00?theme=light&font=Space%20Mono&ext=heatmap" alt="LeetCode stats card" />
+  </a>
+</div>
+
 ## Connect
 
-- Portfolio: https://my-portfolio-mu-five-58.vercel.app/
+- Portfolio: https://saikrishnasamudrala.lovable.app/
+- LeetCode: https://leetcode.com/u/saikrishnasamudrala00/
 - GitHub: https://github.com/SaikrishnaSamudrala3
 
 <div align="center">
