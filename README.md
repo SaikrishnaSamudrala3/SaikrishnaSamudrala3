@@ -103,12 +103,18 @@ Live demo: https://anxiety-and-depression-prediction-c.vercel.app
 ### [DevConnector](https://github.com/SaikrishnaSamudrala3/DevConnector)
 MERN stack social platform for developers featuring authentication, developer profiles, posting, and Redux-powered state management.
 
+Live demo: https://dev-connector-kwi2.vercel.app/
+
 
 ### [StudyBud](https://github.com/SaikrishnaSamudrala3/StudyBud)
 Study-focused platform designed to help users discover people with similar academic interests and save preferred study partners.
 
+Live demo: https://study-bud-xi.vercel.app/
+
 ### [Agentic AI Blog Generation](https://github.com/SaikrishnaSamudrala3/Agentic-AI---Blog-Generation)
 Python project exploring AI-driven blog generation workflows with a focus on automation, prompting, and practical content creation.
+
+Live demo: https://agentic-ai-blog-generation.vercel.app/
 
 ## Current Focus
 
